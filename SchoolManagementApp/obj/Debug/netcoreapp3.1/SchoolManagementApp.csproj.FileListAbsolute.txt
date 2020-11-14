@@ -1,0 +1,13 @@
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.exe
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.deps.json
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.runtimeconfig.json
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.runtimeconfig.dev.json
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.dll
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\bin\Debug\netcoreapp3.1\SchoolManagementApp.pdb
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.csprojAssemblyReference.cache
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.AssemblyInfoInputs.cache
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.AssemblyInfo.cs
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.dll
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.pdb
+C:\Users\AFRICA\source\repos\SchoolManagementApp\SchoolManagementApp\obj\Debug\netcoreapp3.1\SchoolManagementApp.genruntimeconfig.cache
